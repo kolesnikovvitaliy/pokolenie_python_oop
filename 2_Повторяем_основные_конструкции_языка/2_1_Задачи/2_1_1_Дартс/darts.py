@@ -40,8 +40,8 @@ for line in dartboard_1:
 #         for j in range(n):
 #             mat[i][j] = min(i + 1, j + 1, n - i, n - j)
 #     return mat
-#
+
 # dartboard_2 = make_dartboard_2(int(input()))
-#
+
 # for line in dartboard_2:
 #     print(*line)
