@@ -2,7 +2,7 @@
 
 <h2 style="text-align:center"> Практическе задания - 15 шт :</h2>
 <div>
-<a href="https://github.com/kolesnikovvitaliy/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_4_Дартс">1. Дартс</a>  &nbsp; 
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_4_Дартс">1. Дартс</a>  &nbsp; 
 </div> 
-<a href="https://github.com/kolesnikovvitaliy/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_4_Дартс">2. Скобочная последовательность</a>  &nbsp; 
+<a href="https://github.com/kolesnikovvitaliy/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_5_Скобочная_последовательность">2. Скобочная последовательность</a>  &nbsp; 
 </div> 
