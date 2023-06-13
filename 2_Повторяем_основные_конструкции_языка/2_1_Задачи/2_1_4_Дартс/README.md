@@ -53,7 +53,7 @@
 </table>
 
 ## Примеры решений:
-* Первое
+* Первый вариан решения
 ```python
 def make_dartboard_1(n):
     dartboard = []
@@ -78,7 +78,7 @@ dartboard_1 = make_dartboard_1(int(input()))
 for line in dartboard_1:
     print(*line)
 ```
-* Второе
+* Второй вариант решения
 ```python
 def make_dartboard_2(n):
     mat = [[1] * n for _ in range(n)]

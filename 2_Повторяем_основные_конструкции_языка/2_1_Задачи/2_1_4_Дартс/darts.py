@@ -1,15 +1,4 @@
-'''
-Sample Input 3:           Sample Input :               Sample Input 5:
-3                         4                            5
-Sample Input 3:           Sample Input 4:              Sample Input 5:
-
-1 1 1                     1 1 1 1                      1 1 1 1 1
-1 2 1                     1 2 2 1                      1 2 2 2 1
-1 1 1                     1 2 2 1                      1 2 3 2 1
-                          1 1 1 1                      1 2 2 2 1             
-                                                       1 1 1 1 1
-'''
-
+''' Первый вариан решения '''
 def make_dartboard_1(n):
     dartboard = []
     for i in range(n):
@@ -33,7 +22,7 @@ dartboard_1 = make_dartboard_1(int(input()))
 for line in dartboard_1:
     print(*line)
 
-# Второй вариант решения:
+''' Второй вариант решения: '''
 # def make_dartboard_2(n):
 #     mat = [[1] * n for _ in range(n)]
 #     for i in range(n):
