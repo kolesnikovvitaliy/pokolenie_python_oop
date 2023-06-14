@@ -45,7 +45,7 @@
 </table>
 
 ## Примеры решений:
-* Первый вариан решения
+* Первый вариант решения
 ```python
 def is_correct_bracket(text):
     while '()' in text:

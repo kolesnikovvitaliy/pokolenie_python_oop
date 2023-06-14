@@ -51,7 +51,7 @@
 </table>
 
 ## Примеры решений:
-* Первый вариан решения
+* Первый вариант решения
 ```python
 def inversions(sequence:list):
     count = 0
