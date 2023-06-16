@@ -22,3 +22,19 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_10_Функция_quantify">7. Функция quantify()</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_11_Pycon">8. Четвертый четверг месяца</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_12_Функция is_integer">9. Функция is_integer проверка на целое число</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_13_Функция is_decimal">10. Функция is_decimal проверка на целое или вещественное число </a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_14_Функция is_fraction">11. Функция is_fraction проверка на обыкновенную дробь </a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_15_Функция intersperse">12. Функция intersperse генератор, заполнения значениями </a>  &nbsp; 
+</div>
+
