@@ -37,4 +37,13 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_15_Функция intersperse">12. Функция intersperse генератор, заполнения значениями </a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_16_Аннуитет">12. Функция annual_return Сложный процент </a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_17_Функция pluck">12. Функция pluck возврат значения словаря по индексу  </a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка/2_1_Задачи/2_1_18_Декоратор_recviz">12. Функция decorator_recviz Декоратор рекурсивной функции </a>  &nbsp; 
+</div>
 
