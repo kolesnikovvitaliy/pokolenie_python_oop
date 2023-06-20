@@ -4,6 +4,10 @@
 
 ###  Учебные темы
 
+
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_1_Атрибуты_объектов_и_классов">4_1_Атрибуты_объектов_и_классов</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_3_Методы_экземпляра_класса">4_3_Методы_экземпляра_класса</a>  &nbsp; 
+</div>
