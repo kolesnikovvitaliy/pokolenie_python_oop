@@ -5,11 +5,16 @@
 ## Примеры решений:
 * Первый вариант решения
 ```python
+class PiggyBank:
+    pass
 
+
+money_box = PiggyBank()
 ```
 * Второй вариант решения
 ```python
-
+class PiggyBank:...
+money_box = PiggyBank()
 ```
 
 

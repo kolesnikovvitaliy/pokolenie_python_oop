@@ -1,0 +1,36 @@
+<h2 style="text-align:center">Класс PiggyBank 2</h2>
+
+### Реализуйте пустой класс PiggyBank, а затем создайте два экземпляра этого класса и присвойте их переменным money_box1 и money_box2.
+
+#### Экземпляр money_box1 должен иметь:
+* атрибут coins со значением 10
+#### Экземпляр money_box2 должен иметь:
+* трибут coins со значением 15
+* атрибут color со значением 'pink'
+
+## Примеры решений:
+* Первый вариант решения
+```python
+class PiggyBank:
+    pass
+
+
+money_box1 = PiggyBank()
+money_box2 = PiggyBank()
+
+money_box1.coins = 10
+money_box2.coins = 15
+money_box2.color = 'pink'
+```
+* Второй вариант решения
+```python
+class PiggyBank:...
+
+
+money_box1, money_box2 = PiggyBank(), PiggyBank()
+
+money_box1.coins = 10
+money_box2.__dict__.update({"color": "pink", "coins": 15})
+```
+
+
