@@ -26,29 +26,46 @@
     <tr>
       <th>Sample Input 1: </th>
       <th>Sample Input 2: </th>
+      <th>Sample Input 3: </th>
     </tr>
     <tr>
-      <td align="center">house = House('white', 4)<br>
-                        print(house.color)<br>
-                        print(house.rooms)<br></td>
-      <td align="center">house = House('white', 4)<br>
-                         house.paint('black')<br>
-                         house.add_rooms(1)<br>
-                         print(house.color)<br>
-                         print(house.rooms)<br></td>
+      <td align="center">knight = Knight('c', 3, 'white')<br>
+                        print(knight.color, knight.get_char())<br>
+                        print(knight.horizontal, knight.vertical)<br></td>
+      <td align="center">knight = Knight('c', 3, 'white')<br>
+                        print(knight.horizontal, knight.vertical)<br>
+                        print(knight.can_move('e', 5))<br>
+                        print(knight.can_move('e', 4))<br>
+                        knight.move_to('e', 4)<br>
+                        print(knight.horizontal, knight.vertical)<br></td>
+      <td align="center">knight = Knight('c', 3, 'white')<br>
+                        knight.draw_board()<br></td>
     </tr>
     <tr>
       <td>Sample Output 1:</td>
       <td>Sample Output 2:</td>
+      <td>Sample Output 3:</td>
       </tr>
     <tr>
       <td align="center">
-      white<br>
-      4<br>
+      white N<br>
+            c 3<br>
       </td>
       <td align="center">
-                       black<br>
-                       5<br>
+                       c 3<br>
+                        False<br>
+                        True<br>
+                        e 4<br>
+      </td>
+      <td align="center">
+                       ........<br>
+                        ........<br>
+                        ........<br>
+                        .*.*....<br>
+                        *...*...<br>
+                        ..N.....<br>
+                        *...*...<br>
+                        .*.*....<br>
       </td>
     </tr>
   </tbody>

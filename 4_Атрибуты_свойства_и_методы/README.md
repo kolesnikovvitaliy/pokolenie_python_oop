@@ -11,3 +11,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_3_Методы_экземпляра_класса">4_3_Методы_экземпляра_класса</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_4_Модификаторы доступа и аксессоры">4_4_Модификаторы доступа и аксессоры</a>  &nbsp; 
+</div>
