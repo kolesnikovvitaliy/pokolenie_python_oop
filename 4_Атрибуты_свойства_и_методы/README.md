@@ -14,3 +14,12 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_4_Модификаторы доступа и аксессоры">4_4_Модификаторы доступа и аксессоры</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_5_Свойства_функция_property">4_5_Свойства_функция_property</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_6_Декоратор_@property">4_6_Декоратор_@property</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_7_Декораторы_@classmethod_и_@staticmethod">4_7_Декораторы_@classmethod_и_@staticmethod</a>  &nbsp; 
+</div>
