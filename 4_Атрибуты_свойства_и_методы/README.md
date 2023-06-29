@@ -23,3 +23,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_7_Декораторы_@classmethod_и_@staticmethod">4_7_Декораторы_@classmethod_и_@staticmethod</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы/4_8_Декоратор_@singledispatchmethod">4_8_Декоратор_@singledispatchmethod</a>  &nbsp; 
+</div>
