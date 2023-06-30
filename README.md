@@ -4,7 +4,7 @@
 ## Курс состоит из девяти разделов:
 1. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/2_Повторяем_основные_конструкции_языка">Повторяем основные конструкции языка Python</a>
 2. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/4_Атрибуты_свойства_и_методы">Атрибуты, свойства и методы</a>
-3. <a href="#">Магические методы</a>
+3. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы">Магические методы</a>
 4. <a href="#">Протоколы</a>
 5. <a href="#">Наследование и полиморфизм</a>
 6. <a href="#">Дополнительные возможности</a>
