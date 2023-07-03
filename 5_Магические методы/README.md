@@ -11,3 +11,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_2_Строковое_представление_объектов">5_2_Строковое_представление_объектов</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_3_Сравнение_объектов">5_3_Сравнение_объектов</a>  &nbsp; 
+</div> 
