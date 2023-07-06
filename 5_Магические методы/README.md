@@ -14,3 +14,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_3_Сравнение_объектов">5_3_Сравнение_объектов</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_4_Унарные_операторы_и_функции">5_4_Унарные_операторы_и_функции</a>  &nbsp; 
+</div> 
