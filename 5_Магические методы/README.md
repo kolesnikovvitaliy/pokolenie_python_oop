@@ -20,3 +20,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_5_Арифметические_операции">5_5_Арифметические_операции</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_6_Вызываемые_объекты">5_6_Вызываемые_объекты</a>  &nbsp; 
+</div> 
