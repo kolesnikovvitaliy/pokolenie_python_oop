@@ -35,7 +35,7 @@
                         bee?geek<br>
       </td>
       <td align="center">
-                             --++beegeek<br>
+                                 beegeek<br>
                           bee...geek<br>
                           b-e-e-g-e-e-k<br>
       </td>
@@ -58,13 +58,13 @@ class Strip:
 * Второй вариант решения
 
 ```python
-# import re
+import re
 
-# class Strip:
-#     def __init__(self, chars):
-#         self.chars = re.escape(chars)
-#     def __call__(self, string):
-#         return re.sub(f"^[{self.chars}]*|[{self.chars}]*$", '', string)
+class Strip:
+    def __init__(self, chars):
+        self.chars = re.escape(chars)
+    def __call__(self, string):
+        return re.sub(f"^[{self.chars}]*|[{self.chars}]*$", '', string)
 ```
 
 
