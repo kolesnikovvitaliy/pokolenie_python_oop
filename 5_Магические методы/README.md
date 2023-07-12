@@ -26,3 +26,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_7_Преобразования_типов">5_7_Преобразования_типов</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_8_Работа_с_атрибутами_объектов">5_8_Работа_с_атрибутами_объектов</a>  &nbsp; 
+</div>
