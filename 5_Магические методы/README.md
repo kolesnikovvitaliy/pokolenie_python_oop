@@ -2,7 +2,7 @@
 
 ## Раздел содержит в себе:
 
-###  Учебные темы
+###  Учебные темы - 10 шт
 
 
 <div>
@@ -28,4 +28,10 @@
 </div>
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_8_Работа_с_атрибутами_объектов">5_8_Работа_с_атрибутами_объектов</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_9_Хеширование_объектов_Часть_1">5_9_Хеширование_объектов_Часть_1</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы/5_10_Хеширование_объектов_Часть_2">5_10_Хеширование_объектов_Часть_2</a>  &nbsp; 
 </div>
