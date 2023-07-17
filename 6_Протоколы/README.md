@@ -8,3 +8,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_1_Протокол_итерируемых_объектов_и_итераторов">6_1_Протокол_итерируемых_объектов_и_итераторов</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_2_Протокол_последовательностей">6_2_Протокол_последовательностей</a>  &nbsp; 
+</div> 
