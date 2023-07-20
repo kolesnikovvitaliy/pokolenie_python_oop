@@ -30,3 +30,9 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_2_Протокол_последовательностей/6_2_17_Класс_HistoryDict">8. Класс_HistoryDict</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_2_Протокол_последовательностей/6_2_18_Класс_MutableString">9. Класс_MutableString</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_2_Протокол_последовательностей/6_2_19_Класс_Grouper">10. Класс_Grouper</a>  &nbsp; 
+</div>
