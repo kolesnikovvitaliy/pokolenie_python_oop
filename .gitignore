@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 copy
+.timer_st.py
+.task.py
 # C extensions
 *.so
 .vscode
