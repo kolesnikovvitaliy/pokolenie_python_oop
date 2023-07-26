@@ -23,5 +23,17 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_9_Класс_Reloopable">5. Класс_Reloopable</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_10_Класс_UpperPrint">6. Класс_UpperPrint</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_11_Класс_Suppress">7. Класс_Suppress</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_12_Класс_WriteSpy">8. Класс_WriteSpy</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_13_Класс_Atomic">9. Класс_Atomic</a>  &nbsp; 
+</div>
 
 
