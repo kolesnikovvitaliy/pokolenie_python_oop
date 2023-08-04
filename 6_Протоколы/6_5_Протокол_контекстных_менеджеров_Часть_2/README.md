@@ -35,5 +35,14 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_13_Класс_Atomic">9. Класс_Atomic</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_16_Класс_AdvancedTimer">10. AdvancedTimer</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_17_Класс_HtmlTag">11. Класс_HtmlTag: верстка HTML с помощью контекстного менеджера</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_5_Протокол_контекстных_менеджеров_Часть_2/6_5_18_Класс_TreeBuilder">12. Класс_TreeBuilder</a>  &nbsp; 
+</div>
 
 
