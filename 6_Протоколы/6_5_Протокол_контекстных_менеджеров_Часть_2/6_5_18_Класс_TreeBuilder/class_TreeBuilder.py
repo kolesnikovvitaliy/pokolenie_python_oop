@@ -1,25 +1,29 @@
 ''' Первый вариант решения'''
 class TreeBuilder:
-
     def __init__(self):
-        self._structure = []
-        self._list_stack = [self._structure]
+        ''' '''
+        self.index = 0
+        self._structure = {0: []}
 
     def __enter__(self):
-        self._list_stack[-1].append([])
-        self._list_stack.append(self._list_stack[-1][-1])
+        self.index += 1
+        self._structure[self.index] = []
         return self
 
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        if not self._list_stack[-1]:
-            self._list_stack[-2].pop()
-        self._list_stack.pop()
+    def add(self, obj):
+        self._structure.setdefault(self.index, []).append(obj)
 
-    def add(self, item):
-        self._list_stack[-1].append(item)
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        last = max(self._structure.keys())
+        if last:
+            if self._structure[last]:
+                self._structure[last-1].append(self._structure.pop(last))
+            else:
+                self._structure.pop(last)
+        self.index -= 1
 
     def structure(self):
-        return self._structure
+        return self._structure[0]
 ''' Второй вариант решения'''    
 # class TreeBuilder:
 #     def __init__(self):

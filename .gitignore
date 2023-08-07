@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 copy
 _*.py
-task copy.py
+# task copy.py
 # C extensions
 *.so
 .vscode
