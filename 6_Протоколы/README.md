@@ -23,3 +23,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_6_Декоратор_contextmanager">6_6_Декоратор_contextmanager</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы/6_8_Протокол_дескрипторов">6_8_Протокол_дескрипторов</a>  &nbsp; 
+</div>
