@@ -8,3 +8,9 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_1_Наследование_Часть_1">7_1_Наследование_Часть_1</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_2_Наследование_Часть_2">7_2_Наследование_Часть_2</a>  &nbsp; 
+</div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_3_Наследование_Часть_3">7_3_Наследование_Часть_3</a>  &nbsp; 
+</div> 
