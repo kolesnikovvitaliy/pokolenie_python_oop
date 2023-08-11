@@ -14,3 +14,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_3_Наследование_Часть_3">7_3_Наследование_Часть_3</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_4_Наследование_Часть_4">7_4_Наследование_Часть_4</a>  &nbsp; 
+</div> 

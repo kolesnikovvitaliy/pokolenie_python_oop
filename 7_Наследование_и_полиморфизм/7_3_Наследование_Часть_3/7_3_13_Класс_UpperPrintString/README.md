@@ -43,12 +43,16 @@
 ## Примеры решений:
 * Первый вариант решения
 ```python
-
+class UpperPrintString(str):
+    def __str__(self):
+        return f'{super().__str__().upper()}'
 ```
 * Второй вариант решения
 
 ```python
-
+class UpperPrintString(str):
+    def __str__(self):
+        return self.upper()
 ```
 
 
