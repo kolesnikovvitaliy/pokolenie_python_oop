@@ -17,3 +17,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_4_Наследование_Часть_4">7_4_Наследование_Часть_4</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_5_Абстрактные_классы_модуль_abc">7_5_Абстрактные_классы_модуль_abc</a>  &nbsp; 
+</div> 
