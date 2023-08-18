@@ -20,3 +20,9 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_5_Абстрактные_классы_модуль_abc">7_5_Абстрактные_классы_модуль_abc</a>  &nbsp; 
 </div> 
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_6_Множественное_наследование">7_6_Множественное_наследование</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_7_Полиморфизм">7_7_Полиморфизм</a>  &nbsp; 
+</div> 
