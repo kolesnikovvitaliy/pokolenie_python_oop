@@ -25,4 +25,7 @@
 </div>
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_7_Полиморфизм">7_7_Полиморфизм</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм/7_8_Композиция">7_8_Композиция</a>  &nbsp; 
 </div> 
