@@ -7,7 +7,7 @@
 3. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/5_Магические методы">Магические методы</a>
 4. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/6_Протоколы">Протоколы</a>
 5. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм">Наследование и полиморфизм</a>
-6. <a href="#">Дополнительные возможности</a>
+6. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности">Дополнительные возможности</a>
 7. <a href="#">Задачи на проектирование классов</a>
 8. <a href="#">Заключение</a>
 
