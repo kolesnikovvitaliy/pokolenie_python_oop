@@ -2,7 +2,7 @@
 
 ## Раздел содержит в себе:
 
-###  Учебные темы - 8 шт
+###  Учебные темы - 6 шт
 
 
 <div>
@@ -16,4 +16,7 @@
 </div>
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_4_Декораторы_Часть_1">8_4_Декораторы_Часть_1</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_5_Декораторы_Часть_2">8_5_Декораторы_Часть_2</a>  &nbsp; 
 </div>

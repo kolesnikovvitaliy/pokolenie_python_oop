@@ -15,5 +15,20 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_4_Декораторы_Часть_1/8_4_11_Декоратор_limited_calls">2. Декоратор_limited_calls</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_4_Декораторы_Часть_1/8_4_12_Декоратор_takes_numbers">3. Декоратор_takes_numbers</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_4_Декораторы_Часть_1/8_4_13_Декоратор_returns">4. Декоратор_returns</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_4_Декораторы_Часть_1/8_4_14_Декоратор_exception_decorator">5. Декоратор_exception_decorator</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_4_Декораторы_Часть_1/8_4_15_Декоратор_ignore_exception">6. Декоратор_ignore_exception</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_4_Декораторы_Часть_1/8_4_16_Декоратор_type_check">7. Декоратор_type_check</a>  &nbsp; 
+</div>
 
 
