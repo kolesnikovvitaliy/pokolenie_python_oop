@@ -20,3 +20,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_5_Декораторы_Часть_2">8_5_Декораторы_Часть_2</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности/8_6_Модуль_dataclasses">8_6_Модуль_dataclasses</a>  &nbsp; 
+</div>
