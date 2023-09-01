@@ -3,49 +3,27 @@ class CaesarCipher:
     def __init__(self, shift):
         self.shift = shift
 
-    def encode(self, letter):
+    def encode(self, letter, code=1):
         _text = ''
+        __ex = self.shift * code
         for i in letter:
-            number = ord(i)
-            if 65 <= number <= 90:
-                number = number + self.shift
-                if number > 90:
-                    number = number - 26
-                    _text += chr(number)
+            a, b = (97, 122) if i.isalpha() and i.lower() == i else (65, 90)
+            if ord(i) in range(a, b+1):
+                if (ord(i) + __ex) > b:
+                    i = chr(((ord(i) + __ex) - b) + a - 1)
+                    _text += i
+                elif (ord(i) + __ex) < a:
+                    i = chr(b - (a - (ord(i) + __ex + 1)))
+                    _text += i
                 else:
-                    _text += chr(number)
-            elif 97 <= number <= 122:
-                number = number + self.shift
-                if number > 122:
-                    number = number - 26
-                    _text += chr(number)
-                else:
-                    _text += chr(number)
+                    i = chr(ord(i) + __ex)
+                    _text += i
             else:
-                _text += chr(number)
+                _text += i
         return _text
 
     def decode(self, letter):
-        _text = ''
-        for i in letter:
-            number = ord(i)
-            if 65 <= number <= 90:
-                number = number - self.shift
-                if number < 65:
-                    number = number + 26
-                    _text += chr(number)
-                else:
-                    _text += chr(number)
-            elif 97 <= number <= 122:
-                number = number - self.shift
-                if number < 97:
-                    number = number + 26
-                    _text += chr(number)
-                else:
-                    _text += chr(number)
-            else:
-                _text += chr(number)
-        return _text
+        return self.encode(letter, -1)
 ''' Второй вариант решения'''    
 # from re import search, I
 
