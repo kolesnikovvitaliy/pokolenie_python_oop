@@ -29,3 +29,9 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_8_Классы_Testpaper_и_Student">8. Testpaper_и_Student</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_9_Класс_TicTacToe">9. Класс_TicTacToe</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_10_Классы_Game_и_Cell">10. Классы_Game_и_Cell</a>  &nbsp; 
+</div>
