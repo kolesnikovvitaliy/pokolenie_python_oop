@@ -23,7 +23,7 @@ class Processor:
     @staticmethod
     def _list_process(data):
         return sorted(data)
-    
+
     @process.register(float)
     @staticmethod
     def _list_process(data):
