@@ -38,3 +38,6 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_11_Класс_Currency">11. Класс_Currency</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_12_Класс_Selfie">12. Класс_Selfie</a>  &nbsp; 
+</div>

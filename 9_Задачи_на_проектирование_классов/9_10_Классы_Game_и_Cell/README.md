@@ -99,9 +99,9 @@ from random import shuffle, choice
 
 @dataclass
 class Cell:
-    row: int
-    col: int
-    neighbours: int
+    row: int = 0
+    col: int = 0
+    neighbours: int = 0
     mine: bool = False
     open: bool = False
 
@@ -119,10 +119,9 @@ class Game:
 
     @board.setter
     def board(self, lst):
-        self.__board = [['' for i in range(self.cols)]
+        self.__board = [[Cell() for i in range(self.cols)]
                         for j in range(self.rows)]
         self.__set_board_mines(self)
-        self.__set_count_neighbours(self)
 
     @staticmethod
     def __set_board_mines(self):
@@ -133,20 +132,19 @@ class Game:
                 mine = min.pop()
                 if mine is True:
                     _open = False
+                    self.__board[i][j] = Cell(i, j, neighbours, mine, _open)
+                    self.__set_count_neighbours(self, i, j)
                 else:
                     _open = choice([True, False])
-                self.__board[i][j] = Cell(i, j, neighbours, mine, _open)
+                self.__board[i][j].open = _open
 
     @staticmethod
-    def __set_count_neighbours(self):
-        for i in range(self.rows):
-            for j in range(self.cols):
-                if self.__board[i][j].mine:
-                    for k in range(self.rows):
-                        for v in range(self.cols):
-                            if abs(i - k) <= 1 and abs(j - v) <= 1 and\
-                                 not ((i-k) == 0 and (j-v) == 0):
-                                self.__board[i-(i-k)][j-(j-v)].neighbours += 1
+    def __set_count_neighbours(self, i, j):
+        for k in range(self.rows):
+            for v in range(self.cols):
+                if abs(i - k) <= 1 and abs(j - v) <= 1 and\
+                     not ((i-k) == 0 and (j-v) == 0):
+                    self.__board[i-(i-k)][j-(j-v)].neighbours += 1
 
     @staticmethod
     def __mines(self):
