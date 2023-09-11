@@ -1,0 +1,70 @@
+# OUTPUT DATA:
+
+# TEST_1:
+1
+[2, 3]
+
+# TEST_2:
+0
+2
+
+# TEST_3:
+1
+1
+1
+2
+1
+3
+1
+
+# TEST_4:
+1
+1
+2
+2
+3
+3
+
+# TEST_5:
+0
+5
+
+# TEST_6:
+False
+False
+True
+
+# TEST_7:
+1
+1
+
+# TEST_8:
+Исходный итерируемый объект пуст
+
+# TEST_9:
+1
+1
+2
+2
+
+# TEST_10:
+Последнего элемента нет
+
+# TEST_11:
+1000
+99000
+
+# TEST_12:
+0
+1
+2
+3
+0
+2
+False
+
+# TEST_13:
+<class 'AttributeError'>
+<class 'AttributeError'>
+<class 'AttributeError'>
+

@@ -41,3 +41,9 @@
 <div>
 <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_12_Класс_Selfie">12. Класс_Selfie</a>  &nbsp; 
 </div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_13_Класс_MultiKeyDict">13. Класс_MultiKeyDict</a>  &nbsp; 
+</div>
+<div>
+<a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов/9_14_Декоратор_predicate">14. Декоратор_predicate</a>  &nbsp; 
+</div>

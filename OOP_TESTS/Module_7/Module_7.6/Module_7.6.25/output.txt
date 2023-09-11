@@ -1,0 +1,17 @@
+# OUTPUT DATA:
+
+# TEST_1:
+5
+
+# TEST_2:
+<class '__main__.C'>
+<class '__main__.B'>
+
+# TEST_3:
+3
+
+# TEST_4:
+6
+<class '__main__.A'>
+2
+

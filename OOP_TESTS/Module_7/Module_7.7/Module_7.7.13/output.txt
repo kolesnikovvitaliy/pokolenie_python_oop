@@ -1,0 +1,38 @@
+# OUTPUT DATA:
+
+# TEST_1:
+death can
+have me
+when it
+earns me
+
+# TEST_2:
+ death can
+   have me
+   when it
+  earns me
+
+# TEST_3:
+Multiply noise and joy
+Sing songs in a good
+hour Friendship grace
+and youth Our birthday
+girls
+Meanwhile the winged
+child friends greeting
+you Secretly thinks
+sometime I will be the
+birthday boy
+
+# TEST_4:
+ I will not regret the roses
+Withered with a light spring
+    I love the grapes on the
+  vines Ripened in the hands
+          under the mountain
+      The beauty of my green
+ valley Golden joy of autumn
+ oblong and transparent Like
+      the fingers of a young
+                      maiden
+

@@ -1,0 +1,61 @@
+# OUTPUT DATA:
+
+# TEST_1:
+True
+False
+
+# TEST_2:
+True
+False
+False
+False
+False
+
+# TEST_3:
+True
+False
+False
+
+# TEST_4:
+False True
+False True
+False True
+True False
+False True
+True False
+True False
+False True
+False True
+False True
+
+# TEST_5:
+False True
+False True
+True False
+False True
+False True
+True False
+False True
+False True
+False True
+True False
+
+# TEST_6:
+False
+False
+False
+False
+False
+False
+
+# TEST_7:
+[Vector(1, 2), Vector(3, 4), Vector(5, 6)]
+
+# TEST_8:
+NotImplemented
+NotImplemented
+NotImplemented
+NotImplemented
+NotImplemented
+NotImplemented
+
