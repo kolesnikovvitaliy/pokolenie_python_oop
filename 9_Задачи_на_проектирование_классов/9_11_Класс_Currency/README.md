@@ -29,7 +29,7 @@ print(Currency(5, 'USD') * Currency(5, 'EUR'))     # 27.5 USD
 ##### Примечание. Таблица курсов валют:
 
 <div>
-<img align="center" src="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/blob/main/7_Наследование_и_полиморфизм/7_5_Абстрактные_классы_модуль_abc/7_5_25_Класс_DNA/img/task.png" title="Git" **alt="Git">
+<img align="center" src="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/blob/main/9_Задачи_на_проектирование_классов/9_11_Класс_Currency/img/task.png" title="Git" **alt="Git">
 ​</div>
 
 

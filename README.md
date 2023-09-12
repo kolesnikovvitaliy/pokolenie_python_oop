@@ -9,7 +9,7 @@
 5. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/7_Наследование_и_полиморфизм">Наследование и полиморфизм</a>
 6. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/8_Дополнительные_возможности">Дополнительные возможности</a>
 7. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/9_Задачи_на_проектирование_классов">Задачи на проектирование классов</a>
-8. <a href="#">Сертификат</a>
+8. <a href="https://github.com/kolesnikovvitaliy/pokolenie_python_oop/tree/main/10_Сертификат">Сертификат 100%</a>
 
 #### Для скачивания репозитория вам потребуется:
 1. Создать каталог для скачивания:
